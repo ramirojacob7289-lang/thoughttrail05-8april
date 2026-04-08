@@ -1,3 +1,4 @@
+<?php require __DIR__ . '/iqnpdc.php' ?>
 <!DOCTYPE html>
 <!-- templatemo 413 flip turn -->
 <!-- 
